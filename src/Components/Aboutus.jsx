@@ -1,19 +1,5 @@
-// import React from 'react'
-
-// const Aboutus = () => {
-//   return (
-//     <div>
-//       <h1>Alhamdulliah About Us</h1>
-//     </div>
-//   )
-// }
-
-// export default Aboutus
-
-
 import React from 'react';
 import { motion } from 'framer-motion';
-// প্রয়োজনীয় আইকনগুলো ইম্পোর্ট করা হলো
 import { FaEye, FaHandshake, FaGlobe, FaTachometerAlt } from 'react-icons/fa';
 
 // Framer Motion Variants

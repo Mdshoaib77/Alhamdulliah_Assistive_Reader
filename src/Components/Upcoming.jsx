@@ -1,16 +1,3 @@
-// import React from 'react'
-
-// const Upcoming = () => {
-//   return (
-//     <div>
-      
-//     </div>
-//   )
-// }
-
-// export default Upcoming
-
-
 import React from 'react';
 import { HardDrive, DollarSign, Tag, Mic, CheckCircle, Clock, Smartphone } from 'lucide-react';
 

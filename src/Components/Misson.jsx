@@ -1,16 +1,3 @@
-// import React from 'react'
-
-// const Misson = () => {
-//   return (
-//     <div>
-//       ALhamdulliah
-//     </div>
-//   )
-// }
-
-// export default Misson
-
-
 import React from 'react';
 import { motion } from 'framer-motion';
 import { FaHeartbeat, FaLightbulb, FaShieldAlt } from 'react-icons/fa';
